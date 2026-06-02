@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
 
@@ -10,4 +10,6 @@ Thank you for your interest in contributing.
 4. Push your branch to GitHub.
 5. Open a pull request for review.
 
-Please keep contributions focused, documented, and respectful.
+## Guidelines
+
+Please keep contributions focused, documented, and respectful. Make sure changes are tested when possible and that documentation is updated when behavior changes.
